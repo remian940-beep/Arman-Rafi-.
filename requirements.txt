@@ -1,0 +1,8 @@
+Flask
+Redis
+Celery
+SQLAlchemy
+cryptography
+<AI_provider_SDK>
+<multimodal_processing_library>
+<deployment_tool>
